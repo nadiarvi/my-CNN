@@ -43,7 +43,12 @@ Plots the training and testing loss, as well as the training and testing accurac
 ### 9. Visualize Random Test Prediction
 Displays a random test image along with its ground truth label and the predicted label.
 
-## Acknowledgments
-This code is adapted from a Colab notebook and serves as an educational resource for understanding image classification with CNNs.
+## Results
+After 50 epochs of training, the model achieved the following results:
 
-Feel free to explore and modify the code to suit your needs. If you have any questions or feedback, please don't hesitate to reach out!
+Training Loss: 0.6349
+Training Accuracy: 77.48%
+Test Loss: 0.5796
+Test Accuracy: 80.47%
+
+
