@@ -44,6 +44,17 @@ Plots the training and testing loss, as well as the training and testing accurac
 Displays a random test image along with its ground truth label and the predicted label.
 
 ## Results
+<div style="display:flex;">
+    <div style="width:50%; text-align:center;">
+        <img src="images/loss.png" alt="Trends for Loss after 50 epochs" width="500">
+        <p style="margin: 0 auto;">(a) Trends for Loss after 50 epochs</p>
+    </div>
+    <div style="width:50%; text-align:center;">
+        <img src="images/accuracy.png" alt="Trends for Accuracy after 50 epochs" width="500">
+        <p style="margin: 0 auto;">(b) Trends for Accuracy after 50 epochs</p>
+    </div>
+</div>
+
 After 50 epochs of training, the model achieved the following results:
 
 Training Loss: 0.6349
